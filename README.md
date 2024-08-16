@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daryle
 - 👀 I’m a Software Engineer for an EdTech Company
-- 🌱 My academic background: Bachelors in Software Development/ Security, Masters in Software Engineering
+- 🌱 My academic background: Bachelor's in Software Development/ Security && Master's in Software Engineering
 - 🧑‍💻 https://daryleurrea.dev
 <!---
 Daryle/Daryle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
